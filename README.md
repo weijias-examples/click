@@ -9,5 +9,7 @@ For more information, visit [official site](https://click.palletsprojects.com/en
 
 # installation
 >> python setup.py install
+
+# run
 >> sclick -h
 
